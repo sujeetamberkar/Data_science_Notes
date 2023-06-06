@@ -1,0 +1,2 @@
+ERROR:root:File is write mode not read not readable
+ERROR:Comm:No such comm target registered: jupyter.widget.control
