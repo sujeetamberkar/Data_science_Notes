@@ -1,0 +1,2 @@
+def payment():
+    print("Hi")
