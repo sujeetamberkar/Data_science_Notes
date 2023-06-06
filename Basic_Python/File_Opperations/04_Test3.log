@@ -1,0 +1,66 @@
+2023-06-06 05:04:53,516 Log this line of execution
+2023-06-06 05:04:53,516 This is my print
+2023-06-06 05:04:53,517 This is Debug
+2023-06-06 05:05:25,013 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-06-06 05:05:25,061 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-06-06 05:05:26,409 diff parser start
+2023-06-06 05:05:26,410 line_lengths old: 7; new: 7
+2023-06-06 05:05:26,410 -> code[equal] old[1:6] new[1:6]
+2023-06-06 05:05:26,410 copy old[1:5] new[1:5]
+2023-06-06 05:05:26,411 parse_part from 6 to 7 (to 6 in part parser)
+2023-06-06 05:05:26,411 -> code[replace] old[7:7] new[7:7]
+2023-06-06 05:05:26,411 diff parser end
+2023-06-06 05:05:26,432 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-06-06 05:05:26,445 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-06-06 05:05:32,987 diff parser start
+2023-06-06 05:05:32,987 line_lengths old: 7; new: 8
+2023-06-06 05:05:32,987 -> code[equal] old[1:1] new[1:1]
+2023-06-06 05:05:32,988 copy old[1:1] new[1:1]
+2023-06-06 05:05:32,988 -> code[replace] old[2:2] new[2:2]
+2023-06-06 05:05:32,989 parse_part from 2 to 2 (to 2 in part parser)
+2023-06-06 05:05:32,989 -> code[equal] old[3:4] new[3:4]
+2023-06-06 05:05:32,989 copy old[3:4] new[3:4]
+2023-06-06 05:05:32,989 -> code[replace] old[5:5] new[5:5]
+2023-06-06 05:05:32,989 parse_part from 5 to 5 (to 7 in part parser)
+2023-06-06 05:05:32,989 -> code[equal] old[6:6] new[6:6]
+2023-06-06 05:05:32,990 parse_part from 6 to 8 (to 7 in part parser)
+2023-06-06 05:05:32,990 -> code[replace] old[7:7] new[7:8]
+2023-06-06 05:05:32,990 diff parser end
+2023-06-06 05:05:34,606 diff parser start
+2023-06-06 05:05:34,606 line_lengths old: 8; new: 8
+2023-06-06 05:05:34,606 -> code[equal] old[1:7] new[1:7]
+2023-06-06 05:05:34,606 copy old[1:5] new[1:5]
+2023-06-06 05:05:34,607 parse_part from 6 to 8 (to 7 in part parser)
+2023-06-06 05:05:34,607 -> code[replace] old[8:8] new[8:8]
+2023-06-06 05:05:34,607 diff parser end
+2023-06-06 05:05:38,373 Log this line of execution
+2023-06-06 05:05:38,374 This is my print
+2023-06-06 05:05:38,374 d
+2023-06-06 05:05:38,858 This is debug
+2023-06-06 05:05:39,088 Log this line of execution
+2023-06-06 05:05:39,089 This is my print
+2023-06-06 05:05:39,089 This is Debug
+2023-06-06 05:05:39,353 Log this line of execution
+2023-06-06 05:05:39,355 This is my print
+2023-06-06 05:05:39,355 This is Debug
+2023-06-06 05:05:42,662 diff parser start
+2023-06-06 05:05:42,663 line_lengths old: 8; new: 6
+2023-06-06 05:05:42,663 -> code[equal] old[1:1] new[1:1]
+2023-06-06 05:05:42,663 copy old[1:1] new[1:1]
+2023-06-06 05:05:42,663 -> code[replace] old[2:2] new[2:2]
+2023-06-06 05:05:42,664 parse_part from 2 to 2 (to 2 in part parser)
+2023-06-06 05:05:42,664 -> code[equal] old[3:4] new[3:4]
+2023-06-06 05:05:42,664 copy old[3:4] new[3:4]
+2023-06-06 05:05:42,664 -> code[replace] old[5:8] new[5:6]
+2023-06-06 05:05:42,665 parse_part from 5 to 6 (to 5 in part parser)
+2023-06-06 05:05:42,665 diff parser end
+2023-06-06 05:05:45,199 diff parser start
+2023-06-06 05:05:45,200 line_lengths old: 6; new: 6
+2023-06-06 05:05:45,200 -> code[equal] old[1:5] new[1:5]
+2023-06-06 05:05:45,200 copy old[1:5] new[1:5]
+2023-06-06 05:05:45,200 -> code[replace] old[6:6] new[6:6]
+2023-06-06 05:05:45,200 parse_part from 6 to 6 (to 5 in part parser)
+2023-06-06 05:05:45,200 diff parser end
+2023-06-06 05:05:47,964 Log this line of execution
+2023-06-06 05:05:47,964 This is my print
+2023-06-06 05:05:47,964 This is Debug

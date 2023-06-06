@@ -1,0 +1,78 @@
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 5; new: 5
+DEBUG:parso.python.diff:-> code[equal] old[1:4] new[1:4]
+DEBUG:parso.python.diff:copy old[1:4] new[1:4]
+DEBUG:parso.python.diff:-> code[replace] old[5:5] new[5:5]
+DEBUG:parso.python.diff:parse_part from 5 to 5 (to 4 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+DEBUG:parso.cache:pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 5; new: 5
+DEBUG:parso.python.diff:-> code[equal] old[1:4] new[1:4]
+DEBUG:parso.python.diff:copy old[1:4] new[1:4]
+DEBUG:parso.python.diff:-> code[replace] old[5:5] new[5:5]
+DEBUG:parso.python.diff:parse_part from 5 to 5 (to 4 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:root:d
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 5; new: 5
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 2 in part parser)
+DEBUG:parso.python.diff:-> code[equal] old[3:5] new[3:5]
+DEBUG:parso.python.diff:copy old[3:4] new[3:5]
+DEBUG:parso.python.diff:diff parser end
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:root:This is Debug
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: c21aaa11-6544-4509-bb90-c5811bc919eb
+DEBUG:Comm:Current comms: []
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 5; new: 2
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:5] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 1 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 2
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[1:1]
+DEBUG:parso.python.diff:copy old[1:1] new[1:1]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[2:2]
+DEBUG:parso.python.diff:parse_part from 2 to 2 (to 1 in part parser)
+DEBUG:parso.python.diff:diff parser end
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 043b5a92-d3b6-4d37-b4db-df2ecf6cea26
+DEBUG:Comm:Current comms: []
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 3
+DEBUG:parso.python.diff:-> code[insert] old[1:0] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 1 in part parser)
+DEBUG:parso.python.diff:-> code[equal] old[1:1] new[2:2]
+DEBUG:parso.python.diff:copy old[1:1] new[2:2]
+DEBUG:parso.python.diff:-> code[replace] old[2:2] new[3:3]
+DEBUG:parso.python.diff:parse_part from 3 to 3 (to 2 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:root:This is Debug
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:root:This is Debug
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: b14e8949-d586-40e1-9b4e-0f0d81305f0d
+DEBUG:Comm:Current comms: []
+INFO:root:Log this line of execution
+INFO:root:This is my print
+DEBUG:root:This is Debug

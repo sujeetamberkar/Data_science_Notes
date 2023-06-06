@@ -1,0 +1,80 @@
+2023-06-06 05:23:08,182 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,182 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,182 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,182 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,182 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,183 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:23:08,183 root INFO  I am inside my list statement and I am trying to check my list type 
+2023-06-06 05:23:08,183 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:23:08,183 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:23:08,183 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:23:08,183 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:23:08,183 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:26:08,735 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-06-06 05:26:08,837 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-06-06 05:26:11,315 parso.python.diff DEBUG  diff parser start
+2023-06-06 05:26:11,315 parso.python.diff DEBUG  line_lengths old: 19; new: 19
+2023-06-06 05:26:11,315 parso.python.diff DEBUG  -> code[equal] old[1:18] new[1:18]
+2023-06-06 05:26:11,315 parso.python.diff DEBUG  copy old[1:5] new[1:5]
+2023-06-06 05:26:11,318 parso.python.diff DEBUG  parse_part from 6 to 19 (to 18 in part parser)
+2023-06-06 05:26:11,318 parso.python.diff DEBUG  -> code[replace] old[19:19] new[19:19]
+2023-06-06 05:26:11,318 parso.python.diff DEBUG  diff parser end
+2023-06-06 05:26:11,338 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-06-06 05:26:11,352 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-06-06 05:27:12,963 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,963 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  I am inside my list statement and I am trying to check my list type 
+2023-06-06 05:27:12,964 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:27:12,964 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:27:12,964 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:27:12,964 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:27:12,964 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:27:12,964 root INFO  My final result for int is [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2023-06-06 05:27:25,415 Comm ERROR  No such comm target registered: jupyter.widget.control
+2023-06-06 05:27:25,419 Comm WARNING  No such comm: 8d1cf1fa-63f1-4056-ad83-3d90a8b2a052
+2023-06-06 05:27:25,420 Comm DEBUG  Current comms: []
+2023-06-06 05:28:38,413 parso.python.diff DEBUG  diff parser start
+2023-06-06 05:28:38,413 parso.python.diff DEBUG  line_lengths old: 19; new: 19
+2023-06-06 05:28:38,414 parso.python.diff DEBUG  -> code[equal] old[1:18] new[1:18]
+2023-06-06 05:28:38,414 parso.python.diff DEBUG  copy old[1:5] new[1:5]
+2023-06-06 05:28:38,416 parso.python.diff DEBUG  parse_part from 6 to 19 (to 18 in part parser)
+2023-06-06 05:28:38,416 parso.python.diff DEBUG  -> code[replace] old[19:19] new[19:19]
+2023-06-06 05:28:38,416 parso.python.diff DEBUG  diff parser end
+2023-06-06 05:28:38,475 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/typing.py
+2023-06-06 05:28:38,506 parso.cache DEBUG  pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-06-06 05:28:54,179 parso.python.diff DEBUG  diff parser start
+2023-06-06 05:28:54,179 parso.python.diff DEBUG  line_lengths old: 19; new: 20
+2023-06-06 05:28:54,179 parso.python.diff DEBUG  -> code[equal] old[1:18] new[1:18]
+2023-06-06 05:28:54,179 parso.python.diff DEBUG  copy old[1:5] new[1:5]
+2023-06-06 05:28:54,182 parso.python.diff DEBUG  parse_part from 6 to 19 (to 19 in part parser)
+2023-06-06 05:28:54,182 parso.python.diff DEBUG  -> code[replace] old[19:19] new[19:20]
+2023-06-06 05:28:54,182 parso.python.diff DEBUG  parse_part from 20 to 20 (to 19 in part parser)
+2023-06-06 05:28:54,182 parso.python.diff DEBUG  diff parser end
+2023-06-06 05:29:05,017 parso.python.diff DEBUG  diff parser start
+2023-06-06 05:29:05,017 parso.python.diff DEBUG  line_lengths old: 20; new: 20
+2023-06-06 05:29:05,017 parso.python.diff DEBUG  -> code[equal] old[1:19] new[1:19]
+2023-06-06 05:29:05,017 parso.python.diff DEBUG  copy old[1:19] new[1:19]
+2023-06-06 05:29:05,018 parso.python.diff DEBUG  -> code[replace] old[20:20] new[20:20]
+2023-06-06 05:29:05,018 parso.python.diff DEBUG  parse_part from 20 to 20 (to 19 in part parser)
+2023-06-06 05:29:05,018 parso.python.diff DEBUG  diff parser end
+2023-06-06 05:29:07,371 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  I am inside my list statement and I am trying to check my list type 
+2023-06-06 05:29:07,372 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:29:07,372 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:29:07,372 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:29:07,372 root INFO  I am inside another for loop for list inside list elements   
+2023-06-06 05:29:07,372 root INFO  We are iterarting through our list and our local variable is i
+2023-06-06 05:29:07,372 root INFO  My final result for int is [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2023-06-06 05:29:07,373 root INFO  My final result for int  is [1, 2, 3, 4, 5, 6, 7, 8, 9] for  str is ['sujeet']
+2023-06-06 05:29:18,430 Comm ERROR  No such comm target registered: jupyter.widget.control
+2023-06-06 05:29:18,434 Comm WARNING  No such comm: f0f243b0-85e4-43de-a862-add4397f3107
+2023-06-06 05:29:18,435 Comm DEBUG  Current comms: []

@@ -1,0 +1,177 @@
+2023-06-06 05:08:24,098 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-06-06 05:08:24,102 Comm WARNING No such comm: a4bafdc2-81c4-4b8b-89c1-bea8c330b49c
+2023-06-06 05:08:24,102 Comm DEBUG Current comms: []
+2023-06-06 05:08:39,425 root INFO Log this line of execution
+2023-06-06 05:08:39,426 root INFO This is my print
+2023-06-06 05:08:39,426 root DEBUG This is Debug
+2023-06-06 05:11:03,607 root INFO This is an info message
+2023-06-06 05:11:03,608 root DEBUG This is a debug message
+2023-06-06 05:11:19,525 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-06-06 05:11:19,529 Comm WARNING No such comm: 83e9e659-f7db-43f2-9874-329c17900f09
+2023-06-06 05:11:19,530 Comm DEBUG Current comms: []
+2023-06-06 05:14:48,192 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-06-06 05:14:48,240 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-06-06 05:14:49,783 parso.python.diff DEBUG diff parser start
+2023-06-06 05:14:49,783 parso.python.diff DEBUG line_lengths old: 7; new: 7
+2023-06-06 05:14:49,783 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-06-06 05:14:49,783 parso.python.diff DEBUG copy old[1:6] new[1:6]
+2023-06-06 05:14:49,783 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2023-06-06 05:14:49,784 parso.python.diff DEBUG parse_part from 7 to 7 (to 6 in part parser)
+2023-06-06 05:14:49,784 parso.python.diff DEBUG diff parser end
+2023-06-06 05:14:49,849 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-06-06 05:14:49,861 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-06-06 05:14:51,456 root INFO This is an info message
+2023-06-06 05:14:51,456 root DEBUG This is a debug message
+2023-06-06 05:14:57,751 parso.python.diff DEBUG diff parser start
+2023-06-06 05:14:57,751 parso.python.diff DEBUG line_lengths old: 7; new: 1
+2023-06-06 05:14:57,751 parso.python.diff DEBUG -> code[replace] old[1:7] new[1:1]
+2023-06-06 05:14:57,751 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-06-06 05:14:57,751 parso.python.diff DEBUG diff parser end
+2023-06-06 05:15:01,487 parso.python.diff DEBUG diff parser start
+2023-06-06 05:15:01,487 parso.python.diff DEBUG line_lengths old: 1; new: 2
+2023-06-06 05:15:01,487 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:2]
+2023-06-06 05:15:01,487 parso.python.diff DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2023-06-06 05:15:01,488 parso.python.diff DEBUG diff parser end
+2023-06-06 05:16:29,110 parso.python.diff DEBUG diff parser start
+2023-06-06 05:16:29,111 parso.python.diff DEBUG line_lengths old: 2; new: 8
+2023-06-06 05:16:29,111 parso.python.diff DEBUG -> code[replace] old[1:2] new[1:8]
+2023-06-06 05:16:29,113 parso.python.diff DEBUG parse_part from 1 to 8 (to 7 in part parser)
+2023-06-06 05:16:29,113 parso.python.diff DEBUG diff parser end
+2023-06-06 05:16:30,782 parso.python.diff DEBUG diff parser start
+2023-06-06 05:16:30,782 parso.python.diff DEBUG line_lengths old: 8; new: 8
+2023-06-06 05:16:30,782 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+2023-06-06 05:16:30,782 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:16:30,783 parso.python.diff DEBUG parse_part from 4 to 8 (to 7 in part parser)
+2023-06-06 05:16:30,783 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:8]
+2023-06-06 05:16:30,783 parso.python.diff DEBUG diff parser end
+2023-06-06 05:16:30,814 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/typing.py
+2023-06-06 05:16:30,826 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-06-06 05:16:31,266 parso.python.diff DEBUG diff parser start
+2023-06-06 05:16:31,267 parso.python.diff DEBUG line_lengths old: 8; new: 8
+2023-06-06 05:16:31,267 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+2023-06-06 05:16:31,267 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:16:31,268 parso.python.diff DEBUG parse_part from 4 to 8 (to 7 in part parser)
+2023-06-06 05:16:31,268 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:8]
+2023-06-06 05:16:31,268 parso.python.diff DEBUG diff parser end
+2023-06-06 05:17:07,138 parso.python.diff DEBUG diff parser start
+2023-06-06 05:17:07,139 parso.python.diff DEBUG line_lengths old: 8; new: 10
+2023-06-06 05:17:07,139 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+2023-06-06 05:17:07,139 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:17:07,140 parso.python.diff DEBUG parse_part from 4 to 10 (to 9 in part parser)
+2023-06-06 05:17:07,141 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:10]
+2023-06-06 05:17:07,141 parso.python.diff DEBUG diff parser end
+2023-06-06 05:17:08,714 parso.python.diff DEBUG diff parser start
+2023-06-06 05:17:08,715 parso.python.diff DEBUG line_lengths old: 10; new: 10
+2023-06-06 05:17:08,715 parso.python.diff DEBUG -> code[equal] old[1:9] new[1:9]
+2023-06-06 05:17:08,715 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:17:08,716 parso.python.diff DEBUG parse_part from 4 to 10 (to 9 in part parser)
+2023-06-06 05:17:08,716 parso.python.diff DEBUG -> code[replace] old[10:10] new[10:10]
+2023-06-06 05:17:08,716 parso.python.diff DEBUG diff parser end
+2023-06-06 05:17:08,743 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/abc.py
+2023-06-06 05:17:08,744 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/abc.pyi
+2023-06-06 05:17:36,575 parso.python.diff DEBUG diff parser start
+2023-06-06 05:17:36,576 parso.python.diff DEBUG line_lengths old: 10; new: 12
+2023-06-06 05:17:36,576 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-06-06 05:17:36,576 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:17:36,578 parso.python.diff DEBUG parse_part from 4 to 12 (to 11 in part parser)
+2023-06-06 05:17:36,578 parso.python.diff DEBUG -> code[replace] old[9:10] new[9:12]
+2023-06-06 05:17:36,578 parso.python.diff DEBUG diff parser end
+2023-06-06 05:17:39,380 parso.python.diff DEBUG diff parser start
+2023-06-06 05:17:39,381 parso.python.diff DEBUG line_lengths old: 12; new: 12
+2023-06-06 05:17:39,381 parso.python.diff DEBUG -> code[equal] old[1:11] new[1:11]
+2023-06-06 05:17:39,381 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:17:39,383 parso.python.diff DEBUG parse_part from 4 to 12 (to 11 in part parser)
+2023-06-06 05:17:39,383 parso.python.diff DEBUG -> code[replace] old[12:12] new[12:12]
+2023-06-06 05:17:39,383 parso.python.diff DEBUG diff parser end
+2023-06-06 05:17:52,562 parso.python.diff DEBUG diff parser start
+2023-06-06 05:17:52,563 parso.python.diff DEBUG line_lengths old: 12; new: 13
+2023-06-06 05:17:52,563 parso.python.diff DEBUG -> code[equal] old[1:11] new[1:11]
+2023-06-06 05:17:52,563 parso.python.diff DEBUG copy old[1:3] new[1:3]
+2023-06-06 05:17:52,565 parso.python.diff DEBUG parse_part from 4 to 13 (to 12 in part parser)
+2023-06-06 05:17:52,565 parso.python.diff DEBUG -> code[replace] old[12:12] new[12:13]
+2023-06-06 05:17:52,566 parso.python.diff DEBUG diff parser end
+2023-06-06 05:19:00,318 parso.python.diff DEBUG diff parser start
+2023-06-06 05:19:00,319 parso.python.diff DEBUG line_lengths old: 13; new: 7
+2023-06-06 05:19:00,319 parso.python.diff DEBUG -> code[insert] old[1:0] new[1:2]
+2023-06-06 05:19:00,319 parso.python.diff DEBUG parse_part from 1 to 2 (to 2 in part parser)
+2023-06-06 05:19:00,319 parso.python.diff DEBUG -> code[equal] old[1:4] new[3:6]
+2023-06-06 05:19:00,320 parso.python.diff DEBUG copy old[1:3] new[3:5]
+2023-06-06 05:19:00,320 parso.python.diff DEBUG parse_part from 6 to 7 (to 6 in part parser)
+2023-06-06 05:19:00,320 parso.python.diff DEBUG -> code[replace] old[5:13] new[7:7]
+2023-06-06 05:19:00,320 parso.python.diff DEBUG diff parser end
+2023-06-06 05:19:03,168 parso.python.diff DEBUG diff parser start
+2023-06-06 05:19:03,168 parso.python.diff DEBUG line_lengths old: 7; new: 7
+2023-06-06 05:19:03,168 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-06-06 05:19:03,168 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:19:03,169 parso.python.diff DEBUG parse_part from 6 to 7 (to 6 in part parser)
+2023-06-06 05:19:03,169 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2023-06-06 05:19:03,169 parso.python.diff DEBUG diff parser end
+2023-06-06 05:20:09,751 parso.python.diff DEBUG diff parser start
+2023-06-06 05:20:09,751 parso.python.diff DEBUG line_lengths old: 7; new: 9
+2023-06-06 05:20:09,751 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-06-06 05:20:09,751 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:20:09,752 parso.python.diff DEBUG parse_part from 6 to 9 (to 8 in part parser)
+2023-06-06 05:20:09,752 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:9]
+2023-06-06 05:20:09,753 parso.python.diff DEBUG diff parser end
+2023-06-06 05:20:11,828 parso.python.diff DEBUG diff parser start
+2023-06-06 05:20:11,829 parso.python.diff DEBUG line_lengths old: 9; new: 9
+2023-06-06 05:20:11,829 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-06-06 05:20:11,829 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:20:11,830 parso.python.diff DEBUG parse_part from 6 to 9 (to 8 in part parser)
+2023-06-06 05:20:11,830 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:9]
+2023-06-06 05:20:11,830 parso.python.diff DEBUG diff parser end
+2023-06-06 05:21:12,178 parso.python.diff DEBUG diff parser start
+2023-06-06 05:21:12,178 parso.python.diff DEBUG line_lengths old: 9; new: 11
+2023-06-06 05:21:12,178 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-06-06 05:21:12,178 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:21:12,179 parso.python.diff DEBUG parse_part from 6 to 11 (to 10 in part parser)
+2023-06-06 05:21:12,180 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:11]
+2023-06-06 05:21:12,180 parso.python.diff DEBUG diff parser end
+2023-06-06 05:21:25,339 parso.python.diff DEBUG diff parser start
+2023-06-06 05:21:25,340 parso.python.diff DEBUG line_lengths old: 11; new: 11
+2023-06-06 05:21:25,340 parso.python.diff DEBUG -> code[equal] old[1:10] new[1:10]
+2023-06-06 05:21:25,340 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:21:25,342 parso.python.diff DEBUG parse_part from 6 to 11 (to 10 in part parser)
+2023-06-06 05:21:25,342 parso.python.diff DEBUG -> code[replace] old[11:11] new[11:11]
+2023-06-06 05:21:25,342 parso.python.diff DEBUG diff parser end
+2023-06-06 05:22:02,491 parso.python.diff DEBUG diff parser start
+2023-06-06 05:22:02,492 parso.python.diff DEBUG line_lengths old: 11; new: 13
+2023-06-06 05:22:02,492 parso.python.diff DEBUG -> code[equal] old[1:10] new[1:10]
+2023-06-06 05:22:02,492 parso.python.diff DEBUG copy old[1:5] new[1:5]
+2023-06-06 05:22:02,494 parso.python.diff DEBUG parse_part from 6 to 13 (to 12 in part parser)
+2023-06-06 05:22:02,494 parso.python.diff DEBUG -> code[replace] old[11:11] new[11:13]
+2023-06-06 05:22:02,495 parso.python.diff DEBUG diff parser end
+2023-06-06 05:22:21,706 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:21,707 root INFO I am inside my list statement and I am trying to check my list type 
+2023-06-06 05:22:21,707 root INFO I am inside another for loop for |list inside list elements   
+2023-06-06 05:22:21,707 root INFO I am inside If statements
+2023-06-06 05:22:21,707 root INFO I am inside another for loop for |list inside list elements   
+2023-06-06 05:22:21,707 root INFO I am inside If statements
+2023-06-06 05:22:21,707 root INFO I am inside another for loop for |list inside list elements   
+2023-06-06 05:22:21,708 root INFO I am inside If statements
+2023-06-06 05:22:21,708 root INFO I am inside another for loop for |list inside list elements   
+2023-06-06 05:22:21,708 root INFO I am inside If statements
+2023-06-06 05:22:21,708 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:33,294 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-06-06 05:22:33,298 Comm WARNING No such comm: 19890785-6d4c-4617-abff-25f76c60d879
+2023-06-06 05:22:33,298 Comm DEBUG Current comms: []
+2023-06-06 05:22:45,058 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:45,059 root INFO I am inside my list statement and I am trying to check my list type 
+2023-06-06 05:22:45,059 root INFO I am inside another for loop for list inside list elements   
+2023-06-06 05:22:45,059 root INFO I am inside another for loop for list inside list elements   
+2023-06-06 05:22:45,059 root INFO I am inside another for loop for list inside list elements   
+2023-06-06 05:22:45,059 root INFO I am inside another for loop for list inside list elements   
+2023-06-06 05:22:45,059 root INFO We are iterarting through our list and our local variable is i
+2023-06-06 05:22:52,738 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-06-06 05:22:52,741 Comm WARNING No such comm: 68453f09-21bd-47ad-9b49-854e1679f259
+2023-06-06 05:22:52,741 Comm DEBUG Current comms: []
