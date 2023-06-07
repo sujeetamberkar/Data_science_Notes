@@ -1,0 +1,98 @@
+Q1. What is a database? Differentiate between SQL and NoSQL databases.
+
+A database is an organized collection of data stored and accessed electronically. Databases allow for efficient data management with functions for storing, 
+retrieving, and manipulating data.
+SQL (Structured Query Language) Databases: These are relational databases that use SQL for defining and manipulating the data. Data is stored in tables and 
+these tables are linked based on relationships. SQL databases are best for complex queries and follow ACID properties (Atomicity, Consistency, Isolation,
+Durability).
+NoSQL (Not only SQL) Databases: NoSQL databases do not require a fixed schema and avoid join operations. They're good for large sets of distributed data.
+NoSQL databases can store structured, semi-structured, or unstructured data and can scale horizontally. They focus on the CAP theorem 
+(Consistency, Availability, Partition tolerance).
+
+Key Differences:
+
+    SQL databases require a predefined schema, NoSQL doesn't.
+    SQL databases scale vertically (more power to the existing server), NoSQL databases scale horizontally (more servers).
+    SQL databases are great for complex queries, NoSQL databases are not as strong in this area.
+    SQL databases follow ACID properties, NoSQL databases follow the CAP theorem.
+
+
+##############################################################################################################################
+Q2. What is DDL? Explain why CREATE, DROP, ALTER, and TRUNCATE are used with an example.
+
+DDL stands for Data Definition Language, used to define and manage structures in a database.
+1) CREATE: Used to create a new table or database.
+		CREATE TABLE Students (StudentID int, StudentName varchar(255));
+
+2)DROP: Used to delete a table or database.
+		DROP TABLE Students;
+
+3)ALTER: Used to modify the structure of a database.
+		ALTER TABLE Students ADD Age int;
+
+4)TRUNCATE: Used to remove all records from a table.
+This removes all records from 'Students' but keeps the table structure.
+		TRUNCATE TABLE Students;
+##############################################################################################################################
+
+Q3) What is DML? Explain INSERT, UPDATE, and DELETE with an example.
+DML stands for Data Manipulation Language. It is used to manage data within schema objects.
+
+INSERT: Used to insert data into a table.
+		(This adds a new row to the 'Students' table)
+		INSERT INTO Students (StudentID, StudentName) VALUES (1, 'John');
+
+UPDATE: Used to modify existing records.
+		(This updates 'Age' for the student with 'StudentID' 1.)
+		UPDATE Students SET Age = 14 WHERE StudentID = 1;
+
+DELETE: Used to delete existing records.
+		(This deletes the student with 'StudentID' 1 from 'Students'.)
+		DELETE FROM Students WHERE StudentID = 1;
+##############################################################################################################################
+Q4. What is DQL? Explain SELECT with an example.
+
+DQL stands for Data Query Language. The main DQL command is SELECT, which is used to query data within the database.
+SELECT: Used to fetch data from a database.
+		SELECT StudentName FROM Students WHERE Age > 14;
+##############################################################################################################################
+Q5. Explain Primary Key and Foreign Key.
+
+Primary Key: A primary key is a field in a table that uniquely identifies each record in that table. It must contain unique values and cannot be null.
+A table can only have one primary key.
+
+Foreign Key: A foreign key is a field in a table that is a primary key in another table. It is used to link two tables together, establishing a 
+relationship between them. It can contain duplicate values and can be null.
+
+##############################################################################################################################
+Q6. Write a python code to connect MySQL to python. Explain the cursor() and execute() method.
+mycursor = mydb.cursor(): This creates a new cursor object which can execute SQL 
+mycursor.execute(...): This method executes the SQL query given as a parameter.
+
+Python Code
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="abc",
+  password="password"
+)
+
+print(mydb)
+
+mycursor = mydb.cursor()
+
+mycursor.execute("insert into test2.table_1 values(123 , 'sudh' , 'sujeet')")
+mycursor.execute("insert into test2.table_1 VALUES(200905092 ,'sujeet', 'sujeet.amberkar@gmail.com')")
+
+##############################################################################################################################
+Q7. Give the order of execution of SQL clauses in an SQL query.
+
+    1)FROM / JOIN: First, the product of all tables in the from clause is formed.
+    2)WHERE: Then, any rows not meeting the criteria of the where clause are eliminated from the product.
+    3)GROUP BY: The remaining rows are then grouped based on the columns specified in the group by clause.
+    4)HAVING: Rows not meeting the criteria in the having clause are then eliminated.
+    5)SELECT: The columns specified in the select clause are then produced.
+    6)DISTINCT: If distinct keyword is present, duplicate rows are removed.
+    7)ORDER BY: Finally, the rows are sorted based on the order by clause.
+##############################################################################################################################
